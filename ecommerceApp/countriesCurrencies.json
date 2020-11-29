@@ -1,0 +1,14 @@
+{
+  "countries": [
+    {
+      "code": "JO",
+      "currency": "JOD",
+      "rate_to_usd": 1.41
+    },
+    {
+      "code": "UK",
+      "currency": "GBP",
+      "rate_to_usd": 1.33
+    }
+  ]
+}
